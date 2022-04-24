@@ -18,4 +18,4 @@ This repository contains quizes for different lessons.
 
 # License
 
-This course is licenced under © 2011–2017 Udacity, Inc.
+This course is licenced under © 2022 GitHub, Inc.
