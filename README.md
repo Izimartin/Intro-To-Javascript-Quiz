@@ -14,7 +14,7 @@ This repository contains quizes for different lessons.
 
 # Resources
 
-- Udacity Intro To JavaScript Course under [Full Stack Web Development Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) and [Front End Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+- ALX + The ROOM / Udacity Javascript Programming Foundations [Full Stack Web Development Nanodegree](https://www.alx-t.com/foundational-courses/javascript-programming/) and [Front End Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
 # License
 
